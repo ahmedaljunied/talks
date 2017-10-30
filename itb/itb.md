@@ -1,7 +1,8 @@
    
 # ITB
 27 October 2017
-# Fast track to world class engineering
+# Foundations for a product engineer
+ahmed.aljunied@go-jek.com
 
 ## Topics
 ### Launchpad for impact
