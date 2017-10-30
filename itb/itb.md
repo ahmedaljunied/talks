@@ -45,4 +45,58 @@ These basics are non-negotiable. Learn fundamentals then frameworks.
 
 ### Basic software architecture
 
-![basic software architecture](itb/images/basic software architecture.png)
+Here we discuss the basic software architecture of an app and the importance of learning fundamentals first before frameworks. And the benefits of some simple indirection.
+
+![basic software architecture](images/basic_software_architecture.png)
+
+### Basic system architecture
+
+Here we discuss a simple architecture. We initially discuss the "classic" one engineer architecture of dumping all componeents into 1 VM; the simplicity and limitations. Then we breakout into separate servers and discuss which bottlenecks arise first and subsequently as we address them.
+
+![basic system architecture](images/basic_system_architecture.png)
+
+### Tests
+
+You made a change on Friday evening. Will you deploy?
+
+
+### Important habits
+1) Be curious
+2) Prefer fundamentals over ____
+3) Study every day with context
+
+#### Be curious
+How do things work?
+Click a button on the browser…. 
+How does Javascript work on the browser?
+
+![js_runtime_no_browser](js_runtime_no_browser.png)
+![js_runtime_no_browser](js_runtime_with_browser.png)
+
+[Excellent talk](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=8s)
+
+
+#### Prefer fundamentals over _____
+Frameworks
+How should you learn Rails?
+Poor Poro
+Too much magic
+
+#### Study every day with context
+TODO
+
+#### Recap
+Build up your skillset for IMPACT
+Where can you build things?
+
+1) Your Startup
+2) Seed stage startups
+3) Series A-B stage startups
+4) Mature startups
+
+Rank them by
+1) Learning potential (broad vs deep)
+2) Expertise (scale of problem solving)
+3) Collaboration (w top talent)
+4) Mentorship
+
