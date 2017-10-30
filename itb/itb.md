@@ -45,4 +45,12 @@ These basics are non-negotiable. Learn fundamentals then frameworks.
 
 ### Basic software architecture
 
-![basic software architecture](itb/images/basic software architecture.png)
+Here we discuss the basic software architecture of an app and the importance of learning fundamentals first before frameworks. And the benefits of some simple indirection.
+
+![basic software architecture](images/basic_software_architecture.png)
+
+### Basic system architecture
+
+Here we discuss a simple architecture. We initially discuss the "classic" one engineer architecture of dumping all componeents into 1 VM; the simplicity and limitations. Then we breakout into separate servers and discuss which bottlenecks arise first and subsequently as we address them.
+
+![basic system architecture](images/basic_system_architecture.png)
