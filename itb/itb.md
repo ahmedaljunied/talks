@@ -42,3 +42,7 @@ These basics are non-negotiable. Learn fundamentals then frameworks.
 3) OO Principles: [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), [READ](https://en.wikipedia.org/wiki/Object-oriented_programming#SOLID_and_GRASP_guidelines)
 4) OO Patterns: [Read](http://www.blackwasp.co.uk/gofpatterns.aspx)
 
+
+### Basic software architecture
+
+![basic software architecture](itb/images/basic software architecture.png)
