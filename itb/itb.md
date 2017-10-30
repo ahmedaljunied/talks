@@ -67,19 +67,24 @@ You made a change on Friday evening. Will you deploy?
 
 #### Be curious
 How do things work?
+
 Click a button on the browser…. 
+
 How does Javascript work on the browser?
 
-![js_runtime_no_browser](js_runtime_no_browser.png)
-![js_runtime_no_browser](js_runtime_with_browser.png)
+![js_runtime_no_browser](images/js_runtime_no_browser.png)
+![js_runtime_no_browser](images/js_runtime_with_browser.png)
 
 [Excellent talk](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=8s)
 
 
 #### Prefer fundamentals over _____
 Frameworks
+
 How should you learn Rails?
+
 Poor Poro
+
 Too much magic
 
 #### Study every day with context
@@ -87,6 +92,7 @@ TODO
 
 #### Recap
 Build up your skillset for IMPACT
+
 Where can you build things?
 
 1) Your Startup
